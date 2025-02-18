@@ -1,0 +1,4 @@
+.env
+.conda
+.streamlit
+chroma_store
